@@ -1,6 +1,6 @@
 # QC Technical Task - Model A
 
-This repository contains the solutions for the QC Technical Task provided by Instabug. The task is divided into three main parts: Test Design, Bug Reporting, and Test Automation. Each part demonstrates my approach and skills as a QA Engineer.
+This repository contains the solutions for the QC Technical Task provided by Instabug. The task is divided into three main parts: Test Design, Bug Reporting, and Test Automation. 
 
 ## Overview
 
