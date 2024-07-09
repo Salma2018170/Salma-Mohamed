@@ -5,16 +5,22 @@ This repository contains the solutions for the QC Technical Task provided by Ins
 
 ## Overview
 
-The task consists of three parts:
+The task consists of two parts:
 
-1. **Test Design**: Creating test scenarios for the Any.do mobile app.
-2. **Bug Reporting**: Identifying and reporting bugs found in the Any.do mobile app.
-3. **Test Automation**: Implementing automated tests for the login functionality of the Saucedemo website link: https://www.saucedemo.com/.
+1. **TestCases&BugReport.md**: Creating test scenarios for the Any.do mobile app and Identify and report bugs found in the Any.do mobile app.
+2. **Test Automation**: Implementing automated tests for the login functionality of the Saucedemo website link: https://www.saucedemo.com/.
 
 ## Repository Structure
 
-- `TestPlan.md`: Contains the test plan and test cases for the Any.do mobile app.
-- `BugReports.md`: Contains detailed bug reports for the Any.do mobile app.
+- `TestCases&BugReport.md`: Contains the test plan and test cases for the Any.do mobile app and bug report
+- `Bug(x).png`: Contains Screenshot for bug report
 - `TestAutomation/`: Contains the test automation implementation for the Saucedemo website.
   - `src/`: Source code for the automated tests.
   - `pom.xml`: Maven configuration file.
+
+### Prerequisites to run an automation script
+
+- Java 21
+- Maven
+- IDE (ex:intellij)
+
