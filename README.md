@@ -8,7 +8,8 @@ This repository contains the solutions for the QC Technical Task provided by Ins
 The task consists of two parts:
 
 1. **TestCases&BugReport.md**: Creating test scenarios for the Any.do mobile app and Identify and report bugs found in the Any.do mobile app.
-2. **Test Automation**: Implementing automated tests for the login functionality of the Saucedemo website link: https://www.saucedemo.com/.
+   Also you can find the solution for this task here https://docs.google.com/spreadsheets/d/1NHhfXESN9ko5YSXVHWdSpsHqVagC4D_mIz4r0fLCDQI/edit?usp=sharing 
+3. **Test Automation**: Implementing automated tests for the login functionality of the Saucedemo website link: https://www.saucedemo.com/.
 
 ## Repository Structure
 
